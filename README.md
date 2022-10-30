@@ -1,1 +1,2 @@
-# EpiNano
+# EpiNano and FLAIR
+
